@@ -2,7 +2,7 @@
 Amazon Forecast 공부 및 정리 공간
 
 
-# Time series forecasting with DeepAR - Synthetic data.ipynb 파일은 Amazon SageMaker 주피터 노트북 환경에서 작업했습니다.
+# deepar_synthetic.ipynb 파일은 Amazon SageMaker 주피터 노트북 환경에서 작업했습니다.
 # 실행한 결과 test.json , train.json 파일이 생성되었습니다.
 
 ![20220225_171536_1](https://user-images.githubusercontent.com/54341259/155679707-1df5c334-a488-4da6-bf47-4da91ee4901d.png)
